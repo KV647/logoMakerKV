@@ -51,7 +51,7 @@
           shape.setColor(answers.shapeColor);
           // creating svg code
           const svgString = `
-          <svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+          <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
             ${shape.render()}
             <text x="50%" y="50%" text-anchor= "middle" fill="${
               answers.textColor
