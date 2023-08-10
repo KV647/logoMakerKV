@@ -1,0 +1,17 @@
+{
+  "name": "project102",
+  "version": "1.0.0",
+  "description": "SVG generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "KV",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
