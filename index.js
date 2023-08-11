@@ -1,4 +1,4 @@
-    // In collaboration with Kenny
+    // In collaboration with Kenny Ramondo
     const inquirer = require('inquirer');
     const fs = require('fs');
     
